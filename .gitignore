@@ -1,6 +1,10 @@
 .venv/
 __pycache__/
 predictions.db
+..predictions.db
 .idea/
 batches/
 .ipynb_checkpoints/
+mlruns/
+mlflow.db
+*.html
