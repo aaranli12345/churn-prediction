@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+predictions.db
+.idea/
+batches/
+.ipynb_checkpoints/
